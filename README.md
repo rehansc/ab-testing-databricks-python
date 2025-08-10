@@ -25,6 +25,18 @@ See the project files for:
 | Conversion%        | 11.81%    | 12.71%    | 0.1565   | ❌ No        |
 | Avg Revenue/User   | $218.49   | $280.69   | 0.0000   | ✅ Yes       |
 
+## 📊 Visual Results
+
+### CTR Comparison
+![CTR Comparison](images/ctr_comparison.png)
+
+### Conversion Rate Comparison
+![Conversion Rate Comparison](images/conversion_comparison.png)
+
+### Revenue per User Comparison
+![Revenue Comparison](images/revenue_comparison.png)
+
+
 **Conclusion:**  
 Variant B improves CTR and revenue significantly. Recommend rolling out B and monitoring conversion rate.
 
