@@ -30,10 +30,10 @@ See the project files for:
 ### CTR Comparison
 ![CTR Comparison](images/ctr_comparision.png)
 
-### Conversion Rate Comparison
+### Revenue per User Comparison
 ![Conversion Rate Comparison](images/ctr_comparision.png)
 
-### Revenue per User Comparison
+### Conversion Rate Comparison
 ![Revenue Comparison](images/conversion_rate_comparision.png)
 
 
