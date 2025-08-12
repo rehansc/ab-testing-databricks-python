@@ -28,7 +28,7 @@ See the project files for:
 ## 📊 Visual Results
 
 ### CTR Comparison
-![CTR Comparison](images/ctr_comparison.png)
+![CTR Comparison](images/ctr_comparision.png)
 
 ### Conversion Rate Comparison
 ![Conversion Rate Comparison](images/conversion_comparison.png)
