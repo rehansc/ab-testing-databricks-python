@@ -31,7 +31,7 @@ See the project files for:
 ![CTR Comparison](images/ctr_comparision.png)
 
 ### Conversion Rate Comparison
-![Conversion Rate Comparison](images/conversion_comparison.png)
+![Conversion Rate Comparison](images/ctr_comparision.png)
 
 ### Revenue per User Comparison
 ![Revenue Comparison](images/revenue_comparison.png)
