@@ -82,7 +82,7 @@ We use **p-values** to test statistical significance:
 ## 📈 Visual Results
 
 ### CTR Comparison
-![CTR Comparison](images/ctr_comparison.png)
+![CTR Comparison](images/ctr_comparision.png)
 
 ### Revenue per User Comparison
 ![Revenue Comparison](images/revenue_comparison.png)
