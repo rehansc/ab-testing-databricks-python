@@ -37,8 +37,8 @@ See the project files for:
 ![Revenue Comparison](images/conversion_rate_comparision.png)
 
 
-**Conclusion:**  
-Variant B improves CTR and revenue significantly. Recommend rolling out B and monitoring conversion rate.
+> **Conclusion:** Variant B improves CTR and ARPU significantly, while conversion rate differences are not statistically significant. Recommend rolling out Variant B and monitoring conversion rate over time.
+
 
 ## 🛠 Tech Stack
 - **Databricks SQL** → Data preparation & aggregation
