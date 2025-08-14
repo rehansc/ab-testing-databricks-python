@@ -39,6 +39,19 @@ See the project files for:
 
 > **Conclusion:** Variant B improves CTR and ARPU significantly, while conversion rate differences are not statistically significant. Recommend rolling out Variant B and monitoring conversion rate over time.
 
+---
+ab-testing-databricks/
+├── notebook/
+│   └── ab_testing_databricks.ipynb
+├── images/
+│   ├── ctr_comparison.png
+│   ├── revenue_comparison.png
+│   └── conversion_rate_comparison.png
+├── data/                  # optional
+│   └── ab_test_sample.csv
+└── README.md
+
+
 
 ## 🛠 Tech Stack
 - **Databricks SQL** → Data preparation & aggregation
